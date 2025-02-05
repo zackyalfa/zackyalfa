@@ -23,13 +23,8 @@ I'm a [Your Profession or Hobby] with a passion for [Your Passion]. I love worki
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Recent Projects
 
-- [Project 1](https://github.com/your-username/project-1): .....
-- [Project 2](https://github.com/your-username/project-2): .....
-- [Project 3](https://github.com/your-username/project-3):.....
 
 ## Connect with me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
 [![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/zackyalfa)
